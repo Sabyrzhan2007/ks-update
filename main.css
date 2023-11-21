@@ -1,0 +1,9 @@
+.spons {
+	margin-left: 12px;
+	background-image: url(./img/spons.png);
+	width: 100vw;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
